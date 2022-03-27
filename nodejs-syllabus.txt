@@ -1,0 +1,56 @@
+Node JS Syllabus
+1st mounth 
+
+1.JavaScript - ES6 and ES7 enter 
+Time: 1 lesson
+
+
+2.Promise,Destructing,Spread operator,Async / Await 
+Time: 1 lesson
+
+
+3.Module Systems(export and require)
+4.NPM Sistems (global,install,uninstall)
+Time: 1 lesson
+
+
+5.Events and I/O Sistems
+Time: 1 lesson
+
+
+6.NodeJS and HTTP - Create Server and Nodemon
+Time: 1 lesson
+
+
+7.Stream
+Time: 1 lesson
+
+
+8.Express and Pug
+Time: 1 lesson
+
+
+9.Middleware, NoSQL and MongoDB 
+10Create Restful API with Express and MongoDB
+Time: 1 lesson
+
+
+11.Web Token (Unit Test Mocha and Chai) 
+12.Nginx Load Balancing
+13.Websocket
+Time: 1 lesson
+
+
+2nd mounth
+Project practice - Chat App (WhatsApp like)
+with Socket IO and Redis
+
+3rd mounth 
+Project practice - web site
+ReactJS + NodeJS + MongoDB + Express (MERN Stack Web Site)
+
+
+
+
+
+
